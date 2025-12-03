@@ -1,0 +1,11 @@
+# Ignore Save Files (Crucial!)
+save/
+save/*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore playtest backups or builds
+www/
+deploy/
